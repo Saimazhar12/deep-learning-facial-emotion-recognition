@@ -8,13 +8,13 @@ The system uses both facial appearance features and landmark-based geometric rel
 
 ## 🎭 Emotion Classes
 
-- Angry
-- Disgust
-- Fear
-- Happy
-- Neutral
-- Sad
-- Surprise
+- 😠 Angry
+- 🤢 Disgust
+- 😨 Fear
+- 😄 Happy
+- 😐 Neutral
+- 😢 Sad
+- 😲 Surprise
 
 ## 📂 Dataset
 
